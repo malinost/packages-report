@@ -25,12 +25,8 @@ library(tidyverse)
     ## ✖ dplyr::lag()    masks stats::lag()
 
 ``` r
-library(here)
-```
+#library(here)
 
-    ## here() starts at /Users/xsmalr/Box Sync/Utbildning/raukR/HandOuts/Day2/GitExc/packages-report
-
-``` r
 .libPaths()
 ```
 
